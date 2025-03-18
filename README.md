@@ -1,4 +1,4 @@
-Have your own geocoder up and running within the hour, you will require about 60GB of disk space and has no further dependencies. If you select a specific country, you can reduce the necessary disk space.
+Have your own geocoder up and running within the hour, you will require about 60GB of disk space and has no further dependencies. If you select a specific country, you can reduce the necessary disk space. 
 
 Feel free to fork and improve. 
 
